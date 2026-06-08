@@ -1,0 +1,6 @@
+{
+  "name": "Word to JSON Converter",
+  "description": "Upload a Word (.docx) document to structure and extract its complete content into a clean, comprehensive JSON file using advanced Gemini visual and semantic parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
